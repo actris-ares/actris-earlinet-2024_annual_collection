@@ -8,3 +8,7 @@ This collection contains for each station:
 - all the particle depolarization ratio profiles at 352, 532 e 1064nm.
   
 This dataset is an incremental dataset: data are added until the end of 2024 as soon as a new observation is added on the ACTRIS/EARLINET database.
+
+ACTRIS-EARLINET 2024 aerosol backscatter profiles at 532nm over POT Potenza-Italy
+This dataset contains all the aerosol backscatter profiles at 532 nm collected in 2024 at ACTRIS aerosol remote sensing POT station (Potenza – Italy). This dataset is an incremental dataset: data are added until the end of 2024 as soon as a new observation is added on the ACTRIS/EARLINET database.
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=POT&kind=OPTICAL&wavelength=532
