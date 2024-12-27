@@ -9,6 +9,7 @@ This collection contains for each station (if available):
 
 **AKY station, Antikythera, Greece**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_1064  
@@ -23,6 +24,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **ATZ station, Athens, Greece**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_backscatter_1064  
@@ -35,6 +37,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **BRC station, Barcelona, Spain**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_backscatter_1064  
@@ -49,6 +52,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **CBW station, Cabauw, Netherlands**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_backscatter_1064  
@@ -63,6 +67,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **CLJ station, Cluj-Napoca, Romania**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_backscatter_1064  
@@ -73,6 +78,22 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=clj&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=clj&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=clj&kind=OPTICAL&wavelength=1064  
+
+**CVO station, Mindelo, Capo Verde**  
+
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_optical_property_profiles  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_backscatter_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_backscatter_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_backscatter_1064  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_extinction_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_1064  
+
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=cvo&kind=OPTICAL&wavelength=355  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=cvo&kind=OPTICAL&wavelength=532  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=cvo&kind=OPTICAL&wavelength=1064  
 
 **DUS station, Dushanbe, Tajikistan**  
 
