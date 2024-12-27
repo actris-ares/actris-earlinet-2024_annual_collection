@@ -11,8 +11,7 @@ This collection contains for each station (if available):
 
 **AKY station, Antikythera, Greece**
 
-[[https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_355](https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_backscatter_532)](https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/atz/aerosol_backscatter_532)
 
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=355
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=532
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=1064
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=355  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=532  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=AKY&kind=OPTICAL&wavelength=1064  
