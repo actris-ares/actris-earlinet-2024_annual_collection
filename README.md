@@ -7,6 +7,9 @@ This collection contains for each station (if available):
 - all the aerosol extinction profiles  at 355, 532nm;
 - all the particle depolarization ratio profiles at 355, 532 e 1064nm.
 
+https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles  
+https://commons.datacite.org/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles
+
 **AKY station, Antikythera, Greece**  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_optical_property_profiles  
