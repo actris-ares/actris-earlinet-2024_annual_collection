@@ -100,6 +100,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **DUS station, Dushanbe, Tajikistan**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_backscatter_1064  
@@ -114,6 +115,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **GRA station, Granada, Spain**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_backscatter_1064  
@@ -128,6 +130,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **HPB station, Observatory Hohenpeissenberg, Germany**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_backscatter_1064  
@@ -141,6 +144,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **INO station, Bucharest, Romania**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_backscatter_1064  
@@ -156,6 +160,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **KUO station, Kuopio, Finland**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_backscatter_1064  
@@ -170,6 +175,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **LEI station, Leipzig, Germany**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_backscatter_1064  
@@ -184,6 +190,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **LLE station, Lille, France**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_1064  
@@ -199,6 +206,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **MDR station, Madrid, Spain**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_backscatter_532   
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_extinction_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/particle_depolarization_ratio_532  
@@ -207,6 +215,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **POT station, Potenza, Italy**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_1064  
@@ -222,6 +231,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **PUY station, Clermont-Ferrand, France**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_1064  
@@ -235,6 +245,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **RUN station, Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion, France**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/particle_depolarization_ratio_355  
@@ -243,6 +254,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **SAL station, Lecce, Italy**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sal/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sal/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sal/aerosol_backscatter_532    
 
@@ -251,6 +263,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **THE station, Thessaloniki, Greece**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/the/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/the/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/the/aerosol_backscatter_1064  
@@ -262,6 +275,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 
 **WAW station, Warsaw, Poland**  
 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_backscatter_1064  
