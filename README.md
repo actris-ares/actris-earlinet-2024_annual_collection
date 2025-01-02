@@ -12,6 +12,10 @@ https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_prop
 https://commons.datacite.org/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles
 
 **AKY station, Antikythera, Greece**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over AKY Antikythera - Greece. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing AKY station (Antikythera - Greece). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Amiridis, V., & Marinou, E. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over AKY Antikythera - Greece (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/AKY/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_355  
