@@ -255,6 +255,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=lei&kind=OPTICAL&wavelength=1064  
 
 **LLE station, Lille, France**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over LEI Leipzig - Germany. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing LEI station (Leipzig - Germany). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Baars, H., Engelmann, R., & Klamt, A. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over LEI Leipzig - Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/LEI/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_355  
@@ -271,6 +275,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=lle&kind=OPTICAL&wavelength=1064  
 
 **MDR station, Madrid, Spain**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over MDR Madrid - Spain. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing MDR station (Madrid - Spain). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Pujadas, M., & Molero, F. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over MDR Madrid - Spain (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/MDR/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_backscatter_532   
@@ -280,6 +288,10 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=mdr&kind=OPTICAL&wavelength=532  
 
 **POT station, Potenza, Italy**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over POT Potenza-Italy. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing POT station (Potenza – Italy). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Amodeo, A., & Papagiannopoulos, N. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over POT Potenza-Italy (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/POT/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_355  
@@ -296,6 +308,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=pot&kind=OPTICAL&wavelength=1064  
 
 **PUY station, Clermont-Ferrand, France**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over PUY Clermont-Ferrand - France. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing PUY station (Clermont-Ferrand - France). his dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.   
+
+Citation:
+Freville, P., & Baray, J.-L. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over PUY Clermont-Ferrand - France (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/PUY/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_355  
@@ -310,6 +326,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=puy&kind=OPTICAL&wavelength=1064  
 
 **RUN station, Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion, France**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over RUN Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion - France. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing RUN station (La Reunion - France). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Sicard, M., & Gantois, D. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over RUN Observatoire de Physique de l'Atmosphère de La Réunion (OPAR), Saint-Denis site, La Reunion - France (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/RUN/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_backscatter_355  
@@ -319,6 +339,10 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=run&kind=OPTICAL&wavelength=355  
 
 **SAL station, Lecce, Italy**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over SAL Lecce - Italy. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing SAL station (Lecce - Italy). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+CALCAGNILE, L., & Romano, S. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over SAL Lecce - Italy (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/SAL/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sal/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sal/aerosol_backscatter_355  
@@ -328,6 +352,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=sal&kind=OPTICAL&wavelength=532  
 
 **THE station, Thessaloniki, Greece**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over THE Thessaloniki - Greece. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing THE station (Thessaloniki - Greece). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Balis, D., & Voudouri, K. A. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over THE Thessaloniki - Greece (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/THE/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/the/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/the/aerosol_backscatter_355  
@@ -340,6 +368,10 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&stations=the&kind=OPTICAL&wavelength=1064  
 
 **WAW station, Warsaw, Poland**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over WAW Warsaw - Poland. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing WAW station (Warsaw - Poland). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
+
+Citation:
+Stachlewska, I. S., & Szczepanik, D. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over WAW Warsaw - Poland (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/WAW/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_backscatter_355  
