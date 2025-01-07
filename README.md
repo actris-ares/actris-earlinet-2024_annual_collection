@@ -1,4 +1,4 @@
-**ACTRIS-EARLINET 2024 ANNUAL COLLECTION**
+**ACTRIS-EARLINET 2024 ANNUAL COLLECTION**  
 This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing stations.  
 This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
 
