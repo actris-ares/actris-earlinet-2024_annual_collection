@@ -354,12 +354,17 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 **SOF station, Sofia, Bulgaria**  
 ACTRIS-EARLINET 2024 aerosol optical property profiles over SOF Sofia - Bulgaria. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing SOF station (Sofia - Bulgaria). This dataset is an incremental dataset: data are added collected in 2024 as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
 
-Citation:
-Peshev, Z., Dreischuh, T., (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over SOF Sofia - Bulgaria (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/SOF/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Citation:  
+Peshev, Z., & Dreischuh, T. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over SOF Sofia - Bulgaria (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/SOF/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_backscatter_532    
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_backscatter_1064  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_extinction_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/particle_depolarization_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/particle_depolarization_ratio_532  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=sof&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=sof&kind=OPTICAL&wavelength=532  
