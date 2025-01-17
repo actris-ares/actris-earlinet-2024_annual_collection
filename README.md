@@ -24,7 +24,9 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/aerosol_extinction_532 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aky/particle_depolarization_ratio_532  
 
@@ -32,7 +34,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=AKY&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=AKY&kind=OPTICAL&wavelength=1064  
 
-**ARI station, Antikythera, Greece**  
+**ARI mobile station, Antikythera, Greece**  
 ACTRIS-EARLINET 2024 aerosol optical property profiles by ARI - the aerosol mobile lidar OCEANET. This dataset collects all the aerosol optical property profiles collected in 2024 by ARI - the aerosol mobile lidar OCEANET. This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database. ARI in 2024 collected measurements in Leipzig, Germany.    
 
 Citation:  
@@ -81,7 +83,9 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_extinction_355  
-https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/aerosol_extinction_532 
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/particle_depolarization_ratio_532  
 
@@ -101,6 +105,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cbw/particle_depolarization_ratio_532  
 
@@ -120,6 +126,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/clj/particle_depolarization_ratio_355  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=clj&kind=OPTICAL&wavelength=355  
@@ -138,6 +146,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cvo/particle_depolarization_ratio_1064  
@@ -158,6 +168,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/cyc/particle_depolarization_ratio_532   
 
@@ -177,6 +189,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/dus/particle_depolarization_ratio_532  
 
@@ -196,6 +210,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/gra/particle_depolarization_ratio_532  
 
@@ -215,6 +231,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/hpb/particle_depolarization_ratio_532  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=hpb&kind=OPTICAL&wavelength=355  
@@ -233,6 +251,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/particle_depolarization_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ino/particle_depolarization_ratio_1064  
@@ -253,6 +273,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/kuo/particle_depolarization_ratio_532  
 
@@ -272,6 +294,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lei/particle_depolarization_ratio_532  
 
@@ -291,6 +315,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/particle_depolarization_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/particle_depolarization_ratio_1064  
@@ -308,6 +334,7 @@ Pujadas, M., & Molero, F. (2024). ACTRIS-EARLINET 2024 aerosol optical property 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_backscatter_532   
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/mdr/particle_depolarization_ratio_532  
  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=mdr&kind=OPTICAL&wavelength=532  
@@ -324,6 +351,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/particle_depolarization_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/pot/particle_depolarization_ratio_1064  
@@ -343,6 +372,7 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/aerosol_extinction_355   
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/lidar_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/puy/particle_depolarization_ratio_532  
 
@@ -359,6 +389,7 @@ Sicard, M., & Gantois, D. (2024). ACTRIS-EARLINET 2024 aerosol optical property 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_backscatter_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/aerosol_extinction_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/lidar_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/run/particle_depolarization_ratio_355  
 
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=run&kind=OPTICAL&wavelength=355  
@@ -388,6 +419,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/sof/particle_depolarization_ratio_532  
 
@@ -423,6 +456,8 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_backscatter_1064  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_extinction_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/lidar_ratio_532  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/waw/particle_depolarization_ratio_532  
 
