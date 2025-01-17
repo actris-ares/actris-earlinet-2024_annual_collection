@@ -5,13 +5,13 @@ ACTRIS-EARLINET 2024 aerosol optical property profiles. This dataset collects al
 This collection contains for each station (if available): 
 - all the aerosol backscatter profiles at 355, 532 e 1064nm;
 - all the aerosol extinction profiles  at 355, 532nm;
-- all the particle depolarization ratio profiles at 355, 532 e 1064nm.
+- all the particle depolarization ratio profiles at 355, 532 e 1064nm (related files also contain volume depolarization ratio profiles at the same wavelength).
 
 https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles  
 https://commons.datacite.org/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles
 
 Citation:  
-Mona, L., Dema, C., Gumà-Claramunt, P., Ripepi, E., Salvia, V., Volini, M., & ACTRIS ARES Data Centre. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/AEROSOL_OPTICAL_PROPERTY_PROFILES
+Mona, L., D'Amico, G., Mattis, I., Dema, C., Gumà-Claramunt, P., Ripepi, E., Salvia, V., Volini, M., & ACTRIS ARES Data Centre. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 **AKY station, Antikythera, Greece**  
 ACTRIS-EARLINET 2024 aerosol optical property profiles over AKY Antikythera - Greece. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing AKY station (Antikythera - Greece). This dataset is an incremental dataset: data collected in 2024 are added as soon as a new observation collected in 2024 is added on the ACTRIS/EARLINET database.  
@@ -31,6 +31,27 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=AKY&kind=OPTICAL&wavelength=355  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=AKY&kind=OPTICAL&wavelength=532  
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=AKY&kind=OPTICAL&wavelength=1064  
+
+**ARI station, Antikythera, Greece**  
+ACTRIS-EARLINET 2024 aerosol optical property profiles by ARI - the aerosol mobile lidar OCEANET. This dataset collects all the aerosol optical property profiles collected in 2024 by ARI - the aerosol mobile lidar OCEANET. This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database. ARI in 2024 collected measurements in Leipzig, Germany.    
+
+Citation:  
+Engelmann, R., Baars, H., & Klamt, A. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles by ARI - the aerosol mobile lidar OCEANET (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/ARI/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_optical_property_profiles  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_backscatter_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_backscatter_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_backscatter_1064  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_extinction_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/aerosol_extinction_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/lidar_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/lidar_ratio_532  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/particle_depolarization_ratio_355  
+https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/ari/particle_depolarization_ratio_532  
+
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=ARI&kind=OPTICAL&wavelength=355  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=ARI&kind=OPTICAL&wavelength=532  
+Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=ARI&kind=OPTICAL&wavelength=1064  
 
 **ATZ station, Athens, Greece**  
 ACTRIS-EARLINET 2024 aerosol optical property profiles over ATZ Athens - Greece. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing ATZ station (Athens - Greece). This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
