@@ -304,7 +304,7 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=lei&kind=OPTICAL&wavelength=1064  
 
 **LLE station, Lille, France**  
-ACTRIS-EARLINET 2024 aerosol optical property profiles over LEI Leipzig - Germany. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing LEI station (Leipzig - Germany). This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
+ACTRIS-EARLINET 2024 aerosol optical property profiles over LLE Lille - France. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing LLE station (Lille - France). This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
 
 Citation:
 Goloub, P., & HU, Q. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over LLE Lille - France (Version 1). ACTRIS-ARES Data Centre. 
