@@ -307,7 +307,8 @@ Download: https://data.earlinet.org/api/services/restapi/products/downloads?from
 ACTRIS-EARLINET 2024 aerosol optical property profiles over LEI Leipzig - Germany. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing LEI station (Leipzig - Germany). This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
 
 Citation:
-Baars, H., Engelmann, R., & Klamt, A. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over LEI Leipzig - Germany (Version 1). ACTRIS-ARES Data Centre. https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/LEI/AEROSOL_OPTICAL_PROPERTY_PROFILES  
+Goloub, P., & HU, Q. (2024). ACTRIS-EARLINET 2024 aerosol optical property profiles over LLE Lille - France (Version 1). ACTRIS-ARES Data Centre. 
+https://doi.org/10.57837/CNR-IMAA/ARES/ACTRIS-EARLINET/2024/LLE/AEROSOL_OPTICAL_PROPERTY_PROFILES  
 
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_optical_property_profiles  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/lle/aerosol_backscatter_355  
