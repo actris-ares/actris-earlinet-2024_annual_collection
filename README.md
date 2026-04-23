@@ -89,9 +89,9 @@ https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/particle_depolarization_ratio_355  
 https://commons.datacite.org/doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/brc/particle_depolarization_ratio_532  
 
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=355  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=532  
-Download: https://data.earlinet.org/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=1064  
+Download: https://api.actris-ares.eu/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=355  
+Download: https://api.actris-ares.eu/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=532  
+Download: https://api.actris-ares.eu/api/services/restapi/products/downloads?fromDate=2024-01-01&toDate=2024-12-31&stations=brc&kind=OPTICAL&wavelength=1064  
 
 **CBW station, Cabauw, Netherlands**  
 ACTRIS-EARLINET 2024 aerosol optical property profiles over CBW Cabauw - Netherlands. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing CBW station (Cabauw - Netherlands). This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
