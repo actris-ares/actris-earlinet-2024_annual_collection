@@ -1,5 +1,9 @@
 # ACTRIS-EARLINET 2024 annual collection
 
+> This repository is archived. The dataset is published on Zenodo with DOI
+> [10.57837/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles](https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/2024/aerosol_optical_property_profiles):
+> please cite it and download it from there. The content below is kept unchanged for reference.
+
 ACTRIS-EARLINET 2024 aerosol optical property profiles. This dataset collects all the aerosol optical property profiles collected in 2024 at aerosol remote sensing stations. This dataset is incremental: data collected in 2024 are added as soon as a new observation is collected in 2024 and added to the ACTRIS/EARLINET database.  
 
 This collection contains for each station (if available): 
